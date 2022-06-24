@@ -8,5 +8,7 @@ namespace TestGit
     {
         public string Name { get; set; }
         public string LName{ get; set; }
+
+        public DateTime DateTime{ get; set; }
     }
 }
