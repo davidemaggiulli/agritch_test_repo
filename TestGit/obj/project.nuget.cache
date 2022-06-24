@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i7Roi0/M67smUUWmSYBtyd3Sf2yA5CPXfluNhZYa+yRlrjxPmDg6/JIGni5QSOYhkX7skMiWg7Jnqa5cNEv9Lw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\david\\Desktop\\TestGit\\TestGit\\TestGit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
